@@ -1,0 +1,59 @@
+/* Top Navigation Section */
+
+
+.top-nav {
+    background-color:#ffffff;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+}
+
+#nav-logo{
+background-color: #4aaaa5;
+color: white;
+float: left;
+padding: 5px;
+}
+
+#nav-links{
+float: right;
+padding: 5px;
+overflow: auto;
+}
+
+
+
+/* Main Content Section */
+
+.about-container {
+    background-color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+    width: 960px;
+    margin: 70px 0px 0px 200px;
+}
+
+#about-title{
+
+}
+
+#about-content {
+
+}
+
+
+/* Text & Image */
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+img {
+    float:left;
+    margin: 0px 10px 10px 0px;
+}
