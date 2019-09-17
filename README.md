@@ -1,2 +1,2 @@
 # Basic-Portfolio
-Basic Portfolio Arek Chatmajiaj
+Basic Portfolio Arek Chatmajian
