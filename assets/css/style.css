@@ -1,70 +1,9 @@
-/* Top Navigation Section */
-
 * {
     box-sizing:border-box;
 
-}
-
-.top-nav {
-    background-color:#ffffff;
-    height: 90px;
-    border: 5px #cccccc;
-    width: 100%;
-    padding: 50px;
-}
-
-#nav-logo{
-    background-color: #4aaaa5;
-    height: 90px;
-    width: 250px;
-    color: white;
-    float: left;
-    padding: 5px;
-    margin: 0px 0px 0px 200px;
-}
-
-#nav-links{
-    float: left;
-    padding: 5px;
-    overflow: auto;
-    margin: 0px 0px 0px 550px;
-}
-
-
-
-/* Main Content Section */
-
-.about-container {
-    background-color: #ffffff;
-    height: 350px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: #dddddd;
-    width: 960px;
-    margin: 70px 0px 0px 200px;
-    padding: 10px;
-}
-
-#about-title {
-    color:#4aaaa5;
-}
-
-#about-content {
-
-}
-
-footer {
-    background-color: #666666;
-    border-width: 5px;
-    height: 80px;
-    width: 100%;
-    border-color: #cccccc;
-    z-index: 1;
-    padding: 10px;
-    text-align: center;
-    float: left;
-    margin: top 40px;
-}
+   .jumbotron {
+    overflow-wrap: break-word;
+   }
 
 /* Text & Image */
 
